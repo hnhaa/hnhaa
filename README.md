@@ -16,8 +16,9 @@ This GitHub represents my journey into the world of data, where I aim to leverag
 - 🌱 I’m currently learning AWS Cloud Practitioner.
 - 💬 I'm looking to work with you as a Data Analyst/ ICT Business Analyst.
 - 📨 Feel free to reach me at: 
-    - Email: hnhaa00@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/nhathahuynh/
+    - [![LinkedIn Badge](https://img.shields.io/badge/%20-nhatha--huynh%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)](https://www.linkedin.com/in/nhathahuynh/)
+    - [![Outlook Badge](https://img.shields.io/badge/%20-hnhaa00%40gmail.com%20-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=%230078D4&color=%2341495E)](mailto:hnhaa00@gmail.com)
+
 - 🎀༘ Pronouns: She/Her
 - 🧸 Hobbies: Playing the piano 🎹 and solving sudoku challenges ✏️
 
